@@ -1,0 +1,21 @@
+h1{
+    display: inline;
+    padding: 20px;
+    margin: 5px;
+    font-size: 60px;
+}
+
+body{
+    text-align: center;
+    
+}
+
+button{
+    margin: auto 0px;
+    padding: 25px;
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bolder;
+    color: chartreuse;
+    background-color: black;
+}
